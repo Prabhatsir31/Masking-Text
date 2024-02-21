@@ -1,0 +1,23 @@
+body
+{
+    background-color: black;
+}
+h1
+{
+    font-size: 20vw;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 150px;
+    margin-left: 400px;
+    width: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(img.jpg);
+    background-position: center;
+    background-size: cover;
+    background-clip: text;
+    font-style: italic;
+    box-shadow: 3px 3px 6px red;
+    -webkit-background-clip: text;
+    color: transparent;
+}
